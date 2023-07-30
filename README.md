@@ -67,7 +67,7 @@
 
 ## Testing
 
-![Screenshot](https://ibb.co/GJLV8pL)
+![Screenshot](https://kinsta.com/wp-content/uploads/2021/11/what-is-web-hosting-1-1024x512.jpg)
 
 The backend uses Jest for testing. To run the tests, use the following command:<br>
 - <b>npx jest<b/>
