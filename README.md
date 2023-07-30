@@ -67,6 +67,8 @@
 
 ## Testing
 
-The backend uses Jest for testing. To run the tests, use the following command:
-jest
+![Alt Text](https://ibb.co/GJLV8pL)
+
+The backend uses Jest for testing. To run the tests, use the following command:<br>
+- <b>npx jest<b/>
 
