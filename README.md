@@ -67,7 +67,7 @@
 
 ## Testing
 
-![Screenshot](https://i.ibb.co/GJLV8pL/jest.png)
+![Screenshot](https://i.ibb.co/fS5CyF5/jest.png)
 
 The backend uses Jest for testing. To run the tests, use the following command:<br>
 - <b>npx jest<b/>
